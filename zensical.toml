@@ -1,0 +1,8 @@
+[project]
+site_name = "zensical-docopt demo"
+
+[project.markdown_extensions.tables]
+
+[project.markdown_extensions.zensical_docopt]
+base_dir = "."
+heading_level = 2
